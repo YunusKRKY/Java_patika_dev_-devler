@@ -1,4 +1,4 @@
-package odev3;
+package java101.odev3;
 
 import java.util.Scanner;
 

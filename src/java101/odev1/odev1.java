@@ -1,4 +1,4 @@
-package odev1;
+package java101.odev1;
 
 public class odev1 {
 
