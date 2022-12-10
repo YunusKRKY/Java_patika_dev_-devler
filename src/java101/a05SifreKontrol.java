@@ -11,7 +11,8 @@ public class a05SifreKontrol {
      */
 
     static int counter=3;
-    static String sifre = "yunus23";
+    static String sifre =
+            "yunus23";
 
     static String ilkHataliGiris="";
 
