@@ -1,3 +1,5 @@
+package java101;
+
 import java.util.Scanner;
 
 public class a11CinBurcu {
