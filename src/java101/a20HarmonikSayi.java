@@ -16,5 +16,6 @@ public class a20HarmonikSayi {
             sum +=1/i;
         }
         System.out.printf("%.2f", sum);
+
     }
 }
